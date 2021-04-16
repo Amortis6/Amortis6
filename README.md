@@ -1,26 +1,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amortis6)](https://github.com/anuraghazra/github-readme-stats)
 
-npm i daisyui --save
-
-module.exports = {
-
-  plugins: [
-    require('daisyui'),
-  ],
-  
-  theme: {
-    extend: {
-      colors: require('daisyui/colors'),
-    },
-  },
-
-}
-
-
-<div class="shadow card">
-  <div class="card-body">
-    <h2 class="card-title">Card Title</h2> 
-    <p>Card text</p>
-  </div>
-</div> 
+<link href="https://cdn.jsdelivr.net/npm/Amortis6@0.15.3/dist/base.css" rel="stylesheet" type="text/css" />
