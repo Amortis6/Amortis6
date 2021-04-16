@@ -16,3 +16,11 @@ module.exports = {
   },
 
 }
+
+
+<div class="shadow card">
+  <div class="card-body">
+    <h2 class="card-title">Card Title</h2> 
+    <p>Card text</p>
+  </div>
+</div> 
