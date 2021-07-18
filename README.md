@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Amortis6) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/keremamortis/?hl=tr) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/beybifotocekinmem/?hl=tr) 
 [![Discord Badge](https://img.shields.io/badge/Amortis%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.gg/9FyvK8z8) 
 
 
@@ -19,7 +19,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Amortis Spotify Playing" width="350" />](https://open.spotify.com/user/31f4i6eqzpbmm7ljofhgtld6ubhq)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Destina Spotify Playing" width="350" />](https://open.spotify.com/user/31f4i6eqzpbmm7ljofhgtld6ubhq)
 
 **Languages and Tools:**  
 
