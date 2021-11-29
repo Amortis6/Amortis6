@@ -19,7 +19,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Destina Spotify Playing" width="350" />](https://open.spotify.com/user/31f4i6eqzpbmm7ljofhgtld6ubhq?si=4609ac98c5ae4c90)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Amortis Spotify Playing" width="350" />](https://open.spotify.com/track/0cFjpEwEyl3qVoeCme1lNk?si=9ac75d14466b494c)
 
 **Languages and Tools:**  
 
