@@ -11,11 +11,7 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/830208147544342548)](https://discord.com/users/830208147544342548)
 
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br>
+<br>
 
 
 
