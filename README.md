@@ -5,6 +5,12 @@
 - 📫 Bana Alttaki Bilgiler İle Ulaşabilirsiniz.
 - ⚡ Şahsi Ürettiğimiz Discord Botumuz İçin: [Tıklayın](https://top.gg/bot/825179679290818561)
 
+
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/830208147544342548)](https://discord.com/users/830208147544342548)
+
+
+
 ### Connect with me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Amortis6) 
