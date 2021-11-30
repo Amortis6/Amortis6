@@ -7,7 +7,7 @@
 
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:830208147544342548)](https://discord.com/users/:830208147544342548)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:912807205152116796)](https://discord.com/users/:912807205152116796)
 
 
 
