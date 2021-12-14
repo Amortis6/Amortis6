@@ -27,10 +27,6 @@
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Amortis6&show_icons=true&theme=radical)
 
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Amortis Spotify Playing" width="350" />](https://open.spotify.com/track/0cFjpEwEyl3qVoeCme1lNk?si=9ac75d14466b494c)
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
